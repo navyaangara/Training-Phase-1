@@ -6,10 +6,6 @@
 
 #list
 
-
-# In[8]:
-
-
 l=[]
 l.append("navya")
 l.append(19)
@@ -21,13 +17,8 @@ print(l)
 
 
 # In[9]:
-
-
 print(len(l))
-
-
 # In[10]:
-
 
 l.pop(0)#index value
 
